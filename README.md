@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola ! 👋 , Soy  Jose Angel 
+
+🌱  Actualmente estoy estudiando un Grado Superior de Formacion Profesional de Desarrollo de Aplicaciones Web (DAW). 
+
+    Aprendiendo.....
+
+🤔  HTML / CSS / JAVASCRIPT / SQL / C# / .NET / GITHUB / VUE JS / REACT / WORDPRESS / PRESTASHOP
+
+
 
 <!--
 **JoseAngelAl/JoseAngelAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
