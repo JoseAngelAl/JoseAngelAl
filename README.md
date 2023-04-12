@@ -1,10 +1,16 @@
 ### Hola ! 👋 , Soy  Jose Angel 
 
-🌱  Actualmente estoy estudiando un Grado Superior de Formacion Profesional de Desarrollo de Aplicaciones Web (DAW). 
+🌱  He realizado el Grado Superior de Formacion Profesional de Desarrollo de Aplicaciones Web (DAW). 
 
-    Aprendiendo.....
+   Trabajando en Finetwork como desarrollador web Backend.... 
+   
+   Tengo conocimientos de :
 
-🤔  HTML / CSS / JAVASCRIPT / SQL / C# / .NET / GITHUB / VUE JS / REACT JS / NEXT JS / WORDPRESS / PRESTASHOP
+🤔   HTML / CSS / JAVASCRIPT / GITHUB / VUE JS / REACT JS / NEXT JS / 
+    WORDPRESS / PRESTASHOP /
+    SQL / C# / .NET /
+    PHP / SYMFONY
+   
 
 
 
