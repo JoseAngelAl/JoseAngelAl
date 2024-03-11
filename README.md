@@ -9,7 +9,7 @@
 🤔   HTML / CSS / JAVASCRIPT / GITHUB / VUE JS / REACT JS / NEXT JS / 
     WORDPRESS / PRESTASHOP /
     SQL / C# / .NET /
-    PHP / SYMFONY
+    PHP / SYMFONY / JAVA / SPRING BOOT
    
 
 
